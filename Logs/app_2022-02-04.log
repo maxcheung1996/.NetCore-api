@@ -1,0 +1,14 @@
+19:54 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.
+19:59 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.
+20:42 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.
+20:45 UserController : Login user_guid: 85b051a4-a7bc-490c-8d52-dbded4156625
+20:45 UserController : Login user_guid: 85b051a4-a7bc-490c-8d52-dbded4156625
+20:46 UserController : Login user_guid: 85b051a4-a7bc-490c-8d52-dbded4156625
+20:47 UserController : Login user_guid: 85b051a4-a7bc-490c-8d52-dbded4156625
+20:48 UserController : Login user_guid: 85b051a4-a7bc-490c-8d52-dbded4156625
+20:48 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.
+20:50 UserController : Login user_guid: 85b051a4-a7bc-490c-8d52-dbded4156625
+20:50 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.
+20:55 UserController : Login user_guid: 85b051a4-a7bc-490c-8d52-dbded4156625
+20:56 UserController : Login user_guid: 00000000-0000-0000-0000-000000000000
+22:22 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.

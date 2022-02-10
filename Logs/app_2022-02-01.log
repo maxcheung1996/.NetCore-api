@@ -1,0 +1,13 @@
+2022-02-01T22:58:48.5660143+08:00	INFO	[api.Controllers.WeatherForecastController]	[0]	Geting WeatherForecast
+23:12api.Controllers.WeatherForecastControllerGeting WeatherForecast
+23:12api.Controllers.WeatherForecastControllerGeting WeatherForecast
+23:12api.Controllers.WeatherForecastControllerGeting WeatherForecast
+23:14 WeatherForecastController Geting WeatherForecast
+23:15 WeatherForecastController : Geting WeatherForecast
+00:35 WeatherForecastController : Geting WeatherForecast
+00:35 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.
+00:36 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.
+00:37 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.
+00:37 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.
+00:38 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.
+00:39 Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware : An unhandled exception has occurred while executing the request.
