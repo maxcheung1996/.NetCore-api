@@ -108,13 +108,10 @@ namespace api.Controllers
             return Ok();
         }
 
-        [HttpPost("logout")]
+        [HttpPost("Logout/")]
         [Authorize]
         public ActionResult Logout()
         {
-            var userName = User.Identity.Name;
-            _jwtAuthManager.RemoveRefreshTokenByUserName(userName); // can be more specific to ip, user agent, device name, etc.
-            _logger.LogInformation($"User [{userName}] logged out the system.");
             return Ok();
         }
     }
